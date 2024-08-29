@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.myapp-mergeDebugResources-32:/values-v26/values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\JASH GANDHI\\.gradle\\caches\\transforms-3\\cae0069d1585611eb98b1d4f16fa8d6e\\transformed\\appcompat-1.6.1\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,11,15,19",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "226,301,388,552,728,967",
+                        "endLines": "5,6,10,14,18,19",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "296,383,547,723,962,1055"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\JASH GANDHI\\AndroidStudioProjects\\MyApp\\app\\src\\main\\res\\values-v26\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "227"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "221"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-mergeDebugResources-32:\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\JASH GANDHI\\.gradle\\caches\\transforms-3\\cae0069d1585611eb98b1d4f16fa8d6e\\transformed\\appcompat-1.6.1\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,381,557,796",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,376,552,791,884"
+                    }
+                }
+            ]
+        }
+    ]
+}

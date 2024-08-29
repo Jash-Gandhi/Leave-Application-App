@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Green">#00FF0D</color>
+    <color name="Red">#C9FF0000</color>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#A5ECE2</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="About">About</string>
+    <string name="Help1">How can we Help you?</string>
+    <string name="Help2">Tell us about the problem that you are having</string>
+    <string name="about">About</string>
+    <string name="about_app">The Leave Application app for SVKM Shirpur Campus streamlines the process of requesting and managing leaves for students and faculty. With a user-friendly interface, it allows users to submit leave requests conveniently, specifying the duration and reason. Administrators can efficiently review and approve requests, ensuring smooth workflow management. The app provides real-time updates on leave statuses, enhancing transparency and communication within the campus community. By digitizing the leave application process, it reduces paperwork, saves time, and improves overall efficiency, contributing to a more organized and effective administrative system at SVKM Shirpur Campus.</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="app_name">MyApp</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="help">Help</string>
+    <string name="history">History</string>
+    <string name="holiday_list">Holiday List</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="leave_form">Leave Form</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="logo_description">App Logo</string>
+    <string name="logout">Logout</string>
+    <string name="mahendra_singh_dhoni">Mahendra Singh Dhoni</string>
+    <string name="my_report">My Report</string>
+    <string name="navigation_drawer_close">CLOSE D
+        RAWER</string>
+    <string name="navigation_drawer_open">OPEN DRAWER</string>
+    <string name="profile">Profile</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="setting">Settings</string>
+    <string name="share">Share</string>
+    <string name="thala7_gmail_com">thala7@gmail.com</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="version">Version 1.0</string>
+    <string name="welcome">"Welcome !"</string>
+    <style name="AppTheme.NavigationViewStyle" parent="Widget.Design.NavigationView">
+        <item name="android:iconTint">@android:color/transparent</item>
+    </style>
+    <style name="Base.Theme.MyApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApp" parent="Base.Theme.MyApp"/>
+</resources>

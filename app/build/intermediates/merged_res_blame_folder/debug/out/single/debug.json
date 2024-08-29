@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_holiday1.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\holiday1.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_item_holiday.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\item_holiday.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_holidaylist.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\holidaylist.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_jm_leave.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_jm_leave.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_thick_red_border.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\thick_red_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_dashboard.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\menu_nav_menu_drawer.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\menu\\nav_menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_leaveform.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\leaveform.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_student_leave_form.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_student_leave_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_share.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_circular_frame.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\circular_frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_home.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_student_history.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_student_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_history.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_setting.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_phone.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_header.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_curved_red_background.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\curved_red_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_outpass.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_outpass.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_logo_app.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_social_security.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\social_security.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_homeee.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_homeee.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_sss.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\sss.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_survey.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\survey.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_one_day_leave.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\one_day_leave.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_help.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_register_page.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_register_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_check.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_about_page.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_about_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_person.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_info.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_email.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_casual_leave.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\casual_leave.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_main_home_page_dashboard.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_main_home_page_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_user.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_red_edit_text_background.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\red_edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_medical_leave.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\medical_leave.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_location.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_help.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_my_profile.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_my_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapp-merged_res-34:/layout_activity_register_page.xml.flat",
+        "source": "com.example.myapp-main-36:/layout/activity_register_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_person.jpeg.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\person.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_nmims_horizontal_logo.jpg.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\nmims_horizontal_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_content_nav.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_content_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_option_page_login_register.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_option_page_login_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_login_page.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_myreport.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\myreport.png"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_menuicon.png.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\drawable\\menuicon.png"
+    }
+]

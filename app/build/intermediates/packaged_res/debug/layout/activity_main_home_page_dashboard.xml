@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_drawer_layout"
+    android:layout_width="match_parent"
+    tools:context=".MainActivity"
+    tools:ignore="HardcodedText"
+    style="@style/AppTheme.NavigationViewStyle"
+    android:fitsSystemWindows="true"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"/>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Horizontal LinearLayout for Image and Text -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            tools:ignore="ExtraText">
+
+            <!-- Welcome Text Box -->
+
+            <!-- Image View -->
+            <TextView
+                android:id="@+id/welcome_text"
+                android:layout_width="260dp"
+                android:layout_height="match_parent"
+                android:elegantTextHeight="true"
+                android:freezesText="true"
+                android:gravity="center"
+                android:text="WELCOME!"
+                android:textAlignment="center"
+                android:textColor="#F60000"
+                android:textIsSelectable="false"
+                android:textSize="44sp"
+                android:textStyle="bold|italic" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_gravity="end"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:src="@drawable/logo_app" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/navigationview"
+            android:orientation="vertical"
+            tools:ignore="NotSibling">
+
+            <!-- First Line - Dashboard Item -->
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="10dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/curved_red_background"
+                    android:fontFamily="sans-serif-thin"
+                    android:includeFontPadding="false"
+                    android:padding="16dp"
+                    android:text="Dashboard Item"
+                    android:textAlignment="center"
+                    android:textColor="#FFFFFF"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+            </androidx.cardview.widget.CardView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="55dp"
+                android:layout_marginLeft="55dp">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/image1_container"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    app:cardElevation="8dp"
+                    app:cardCornerRadius="8dp"
+                    android:layout_marginEnd="4dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="8dp"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:id="@+id/imageviewopen1"
+                            android:layout_height="200dp"
+                            android:contentDescription="@android:string/VideoView_error_button"
+                            android:onClick="onImageClick"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/leaveform"
+                            tools:ignore="OnClick" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Leave Form"
+                            android:id="@+id/text1"
+                            android:textSize="25dp"
+                            android:textAlignment="center"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="55dp"
+                android:layout_marginLeft="55dp"
+                android:layout_marginTop="20dp">
+
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/image2_container"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    app:cardElevation="8dp"
+                    app:cardCornerRadius="8dp"
+                    android:layout_marginStart="4dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="8dp"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/imageviewopen2"
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:onClick="onImageClick"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/holidaylist"
+                            tools:ignore="OnClick,SpeakableTextPresentCheck" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/text2"
+                            android:text="Holiday List"
+                            android:textStyle="bold"
+                            android:textSize="25dp"
+                            android:textAlignment="center"/>
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+
+            <!-- Third Line - Two Images (history.png and myreport.png) -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginRight="55dp"
+                android:layout_marginLeft="55dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="50dp">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/image3_container"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    app:cardCornerRadius="8dp"
+                    app:cardElevation="10dp"
+                    android:layout_marginEnd="4dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="8dp"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/imageviewopen3"
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:onClick="onImageClick"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/history"
+                            tools:ignore="OnClick,SpeakableTextPresentCheck" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="History"
+                            android:id="@+id/text3"
+                            android:textSize="25dp"
+                            android:textStyle="bold"
+                            android:textAlignment="center"/>
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/navdr"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        app:menu="@menu/nav_menu_drawer"
+        android:layout_gravity="start"
+        style="@style/AppTheme.NavigationViewStyle"
+        app:headerLayout="@layout/activity_header"/>
+
+</androidx.drawerlayout.widget.DrawerLayout>
