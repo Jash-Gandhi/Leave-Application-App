@@ -12,12 +12,16 @@
         "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_about_page.xml"
     },
     {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-mergeDebugResources-33:\\layout\\activity_student_leave_form.xml",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_student_leave_form.xml"
+    },
+    {
         "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-mergeDebugResources-33:\\layout\\activity_main2.xml",
         "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_main2.xml"
     },
     {
-        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-mergeDebugResources-33:\\layout\\activity_student_leave_form.xml",
-        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_student_leave_form.xml"
+        "merged": "com.example.myapp-mergeDebugResources-33:/layout/activity_main_home_page_dashboard.xml",
+        "source": "com.example.myapp-main-36:/layout/activity_main_home_page_dashboard.xml"
     },
     {
         "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-mergeDebugResources-33:\\layout\\activity_jm_leave.xml",
@@ -62,10 +66,6 @@
     {
         "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-mergeDebugResources-33:\\layout\\activity_header.xml",
         "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_header.xml"
-    },
-    {
-        "merged": "com.example.myapp-mergeDebugResources-33:/layout/activity_register_page.xml",
-        "source": "com.example.myapp-main-36:/layout/activity_register_page.xml"
     },
     {
         "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-mergeDebugResources-33:\\layout\\activity_option_page_login_register.xml",

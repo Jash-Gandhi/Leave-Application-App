@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/navigationview"
+        android:layout_width="289dp"
+        android:layout_height="724dp"
+        android:layout_below="@id/navigationview"
+        android:layout_gravity="start"
+        android:fitsSystemWindows="true"
+        app:dividerInsetStart="60dp"
+        app:headerLayout="@layout/activity_header"
+        app:itemIconPadding="20dp"
+        app:menu="@menu/nav_menu_drawer"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-3dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -5,7 +5,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -34,7 +33,7 @@ public final class ActivityRegisterPageBinding implements ViewBinding {
   public final TextInputLayout confirmPasswordLayout;
 
   @NonNull
-  public final EditText email;
+  public final TextInputEditText email;
 
   @NonNull
   public final TextInputLayout emailLayout;
@@ -83,7 +82,7 @@ public final class ActivityRegisterPageBinding implements ViewBinding {
 
   private ActivityRegisterPageBinding(@NonNull ConstraintLayout rootView,
       @NonNull TextView attributionText, @NonNull TextInputEditText confirmPassword,
-      @NonNull TextInputLayout confirmPasswordLayout, @NonNull EditText email,
+      @NonNull TextInputLayout confirmPasswordLayout, @NonNull TextInputEditText email,
       @NonNull TextInputLayout emailLayout, @NonNull TextInputEditText fullName,
       @NonNull TextInputLayout fullNameLayout, @NonNull ImageView imageView,
       @NonNull TextInputEditText password, @NonNull TextInputLayout passwordLayout,
@@ -160,7 +159,7 @@ public final class ActivityRegisterPageBinding implements ViewBinding {
       }
 
       id = R.id.email;
-      EditText email = ViewBindings.findChildViewById(rootView, id);
+      TextInputEditText email = ViewBindings.findChildViewById(rootView, id);
       if (email == null) {
         break missingId;
       }

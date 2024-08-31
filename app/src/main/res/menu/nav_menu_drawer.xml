@@ -1,0 +1,60 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+        <item
+            android:id="@+id/navmenu"
+            android:title="Dashboard"
+            android:icon="@drawable/dashboard" />
+
+        <item
+            android:id="@+id/navCart"
+            android:title="@string/leave_form"
+            android:icon="@drawable/leaveform"
+            />
+
+        <item
+            android:id="@+id/holiday"
+            android:title="@string/holiday_list"
+            android:icon="@drawable/holidaylist" />
+
+    <group android:id="@+id/group2">
+
+
+        <item
+            android:id="@+id/navHistory"
+            android:title="@string/history"
+            android:icon="@drawable/history" />
+
+        <item
+            android:id="@+id/navFeedback"
+            android:title="@string/profile"
+            android:icon="@drawable/user" />
+
+    </group>
+
+    <group android:id="@+id/group3">
+
+        <item
+            android:id="@+id/navContact6"
+            android:title="@string/help"
+            android:icon="@drawable/help" />
+
+        <item
+            android:id="@+id/navContact7"
+            android:title="@string/about"
+            android:icon="@drawable/info" />
+
+        <item
+            android:id="@+id/navTerms"
+            android:title="@string/share"
+            android:icon="@drawable/share" />
+
+        <item
+            android:id="@+id/navShare"
+            android:title="@string/logout"
+            android:icon="@drawable/check" />
+
+    </group>
+</menu>

@@ -4,12 +4,12 @@
         "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\holiday1.xml"
     },
     {
-        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
-    },
-    {
         "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_item_holiday.xml.flat",
         "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\item_holiday.xml"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_holidaylist.png.flat",
@@ -20,12 +20,12 @@
         "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\layout\\activity_jm_leave.xml"
     },
     {
-        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-hdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
         "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\layout_activity_main2.xml.flat",
@@ -110,6 +110,10 @@
     {
         "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
         "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.myapp-merged_res-34:/layout_activity_main_home_page_dashboard.xml.flat",
+        "source": "com.example.myapp-main-36:/layout/activity_main_home_page_dashboard.xml"
     },
     {
         "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_social_security.png.flat",
@@ -234,10 +238,6 @@
     {
         "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-34:/layout_activity_register_page.xml.flat",
-        "source": "com.example.myapp-main-36:/layout/activity_register_page.xml"
     },
     {
         "merged": "C:\\Users\\JASH GANDHI\\.gradle\\daemon\\8.2\\com.example.myapp-merged_res-34:\\drawable_person.jpeg.flat",
